@@ -2,10 +2,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 I’m currently studying **Computer Science**
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
 # 💫 About Me:
+
+🌱 I’m currently studying **Computer Science**
 I'm a Computer Science student, always eager to learn and improve. Currently, I'm looking to collaborate on open-source projects and seeking internships or job opportunities to gain experience. I'm also learning English to expand my horizons.<br><br>🔧 Skills:<br><br>Software development<br>Team collaboration<br>Problem-solving<br>🚀 Looking for:<br><br>Collaborating on interesting projects<br>Opportunities for professional growth<br>I'm always open to new challenges and opportunities!
 
 
