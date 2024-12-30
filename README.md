@@ -2,23 +2,23 @@
 
 # 💫 About Me:
 
-🌱 I’m currently studying **Computer Science**  
+🌱 I’m currently studying **Computer Science**<br>  
 I'm a Computer Science student, always eager to learn and improve. Currently, I'm looking to collaborate on open-source projects and seeking internships or job opportunities to gain experience. I'm also learning English to expand my horizons.
 
-<br><br>
+<br>
 
 🔧 ***Skills:***  
 - Software development  
 - Team collaboration  
 - Problem-solving
 
-<br><br>
+<br
 
 🚀 ***Looking for:***  
 - Collaborating on interesting projects  
 - Opportunities for professional growth
 
-<br><br>
+<br>
 
 I'm always open to new challenges and opportunities!
 
